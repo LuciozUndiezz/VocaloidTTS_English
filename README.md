@@ -1,6 +1,8 @@
 # VocaloidTTS
 Text to Speech with Vocaloid
 
+## It will be a while before this can actually do english, open_JTalk doesn't like roman characters'
+
 -Usage demo(v1.0) : https://www.nicovideo.jp/watch/sm38950276  /  https://youtu.be/8-tYhsTFTXY
 
 -Usage demo(v2.0) : https://www.nicovideo.jp/watch/sm39375190 / https://youtu.be/6f7pr1Rp48E
