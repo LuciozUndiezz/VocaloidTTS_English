@@ -1,7 +1,8 @@
-# VocaloidTTS
-Text to Speech with Vocaloid
+# VocaloidTTSENG
+Text to Speech with Vocaloid (But in English)
 
 ## It will be a while before this can actually do english, open_JTalk doesn't like roman characters'
+## I will use Festival TTS for this!
 
 -Usage demo(v1.0) : https://www.nicovideo.jp/watch/sm38950276  /  https://youtu.be/8-tYhsTFTXY
 
